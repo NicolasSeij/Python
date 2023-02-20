@@ -1,3 +1,8 @@
+#El juego es una versión simplificada del juego "Mastermind". El objetivo es adivinar un código secreto generado aleatoriamente por la computadora. 
+#El jugador hace propuestas de códigos y recibe pistas de la computadora sobre cuántos dígitos son correctos y cuántos están en la posición correcta.
+#El jugador tiene un número limitado de intentos para adivinar el código.
+#El juego tiene tres niveles de dificultad: fácil, medio y difícil, que corresponden a códigos de tres, cuatro y cinco dígitos, respectivamente.
+
 import random 
 import time
 
